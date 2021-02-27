@@ -1,4 +1,4 @@
-invite_userids = [383714744]
+invite_userids = [383714744,417703600]
 
 import json, os, time
 import requests
